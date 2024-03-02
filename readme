@@ -1,0 +1,2 @@
+this contains the terraform code for provisioning an azure storage account named "projectstoracc" and azure blob storage container "helm repo" 
+the resource group created is named "project_account"
